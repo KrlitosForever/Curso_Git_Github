@@ -44,6 +44,9 @@ El valor agregado que le quiero dar a este curso es la personalización, es deci
 La modalidad de este curso son dos vía _video llamada_ o _presencial_ si es que vives en Copiapó, Chile.
 Se entregará material para que puedas repasar conocimiento además de contar con ejercicios prácticos que resolveremos en conjunto.
 
->Cherry-pick, rebase, submodules, pipelines, Estructura de trabajos, protección de ramas, asignación de roles.
+>Cherry-pick, rebase, submodules, pipelines, Estructura de trabajos, protección de ramas, asignación de roles, proteger ramas.
+https://www.conventionalcommits.org/en/v1.0.0/#specification
+https://rickandmortyapi.com/
+https://www.atlassian.com/git/tutorials/cherry-pick
 
 >Git® y Github® Son marcas registradas.
