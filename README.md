@@ -1,4 +1,5 @@
 # Curso práctico de Git y Github
+Repositorio dedicado a mis alumnos con el objetivo de entrenar las herramientas de git y github.
 
 ## Índice
 1. [Contenido curso básico de git y github.](#contenido-curso-básico-de-git-y-github)
@@ -15,6 +16,7 @@
 - Generar Key para actualizar mediante SSH.
 - Subir repositorio a Github.
 - Sincronizar tu repositorio desde Github.
+- Introducción a Markdown
 
 ## Contenido curso intermedio de git y github.
 
@@ -23,7 +25,7 @@
 - Fusionar rama de trabajo con la principal.
 - Utilizar Github page para exponer tu proyecto.
 
-## Contenido curso avanzado de giy y github.
+## Contenido curso avanzado de git y github.
 
 - Realizar un fork desde un repositorio externo
 - Crear un PR a un repositorio externo
@@ -36,3 +38,4 @@ El objetivo de este curso es entregar las herramientas y las competencias necesa
 # Valor agregado
 El valor agregado que le quiero dar a este curso es la personalización, es decir, quiero transitar contigo este camino ayudando a entender como funciona el proceso, cuáles son los flujos de trabajo que en general se utilizan a la hora de desarrollar.
 
+>Git® y Github® Son marcas registradas.
