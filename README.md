@@ -4,7 +4,7 @@ Repositorio dedicado a mis alumnos con el objetivo de entrenar las herramientas 
 ## Índice
 1. [Contenido curso básico de git y github.](#contenido-curso-básico-de-git-y-github)
 2. [Contenido curso intermedio de git y github.](#contenido-curso-intermedio-de-git-y-github)
-3. [Contenido curso avanzado de giy y github.](#contenido-curso-avanzado-de-giy-y-github)
+3. [Contenido curso avanzado de git y github.](#contenido-curso-avanzado-de-git-y-github)
 4. [Proposito del curso](#proposito-del-curso)
 5. [Valor agregado](#valor-agregado)
 
@@ -32,10 +32,18 @@ Repositorio dedicado a mis alumnos con el objetivo de entrenar las herramientas 
 - Revisar código de un tercero
 - Aceptar cambios en tu proyecto.
 
+
 # Proposito del curso
 El objetivo de este curso es entregar las herramientas y las competencias necesarias para que puedas aprender Git y Github. Para que puedas cumplir tu sueño de ser un desarrollador(a).
 
 # Valor agregado
 El valor agregado que le quiero dar a este curso es la personalización, es decir, quiero transitar contigo este camino ayudando a entender como funciona el proceso, cuáles son los flujos de trabajo que en general se utilizan a la hora de desarrollar.
+
+# Modalidad del curso
+
+La modalidad de este curso son dos vía _video llamada_ o _presencial_ si es que vives en Copiapó, Chile.
+Se entregará material para que puedas repasar conocimiento además de contar con ejercicios prácticos que resolveremos en conjunto.
+
+>Cherry-pick, rebase, submodules, pipelines, Estructura de trabajos, protección de ramas, asignación de roles.
 
 >Git® y Github® Son marcas registradas.
