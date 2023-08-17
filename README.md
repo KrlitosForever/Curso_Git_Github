@@ -2,18 +2,22 @@
 Repositorio dedicado a mis alumnos con el objetivo de ejercitar las herramientas de git y github.
 
 ## Índice
-1. [Contenido curso básico de git y github.](#contenido-curso-básico-de-git-y-github)
-2. [Contenido curso intermedio de git y github.](#contenido-curso-intermedio-de-git-y-github)
-3. [Contenido curso avanzado de git y github.](#contenido-curso-avanzado-de-git-y-github)
-4. [Propósito del curso](#proposito-del-curso)
-5. [Valor agregado](#valor-agregado)
+- [Curso práctico de Git y Github](#curso-práctico-de-git-y-github)
+  - [Índice](#índice)
+  - [Contenido curso básico de git y github.](#contenido-curso-básico-de-git-y-github)
+  - [Contenido curso intermedio de git y github.](#contenido-curso-intermedio-de-git-y-github)
+  - [Contenido curso avanzado de git y github.](#contenido-curso-avanzado-de-git-y-github)
+- [Propósito del curso](#proposito-del-curso)
+- [Valor agregado](#valor-agregado)
+- [Modalidad del curso](#modalidad-del-curso)
 
 
 ## Contenido curso básico de git y github.
 
+- Crear cuenta en Github.
 - Configuración de e-mail y nombre en Git.
-- Crear tu primer repositorio con Git.
 - Generar Key para actualizar mediante SSH.
+- Crear tu primer repositorio con Git.
 - Subir repositorio a Github.
 - Sincronizar tu repositorio desde Github.
 - Introducción a Markdown
