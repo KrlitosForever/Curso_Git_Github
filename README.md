@@ -1,18 +1,18 @@
-# Curso práctico de Git y Github
+# Curso práctico de Git y Github.
 Repositorio dedicado a mis alumnos con el objetivo de ejercitar las herramientas de git y github.
 
 ## Índice
-- [Curso práctico de Git y Github](#curso-práctico-de-git-y-github)
+- [Curso práctico de Git y Github.](#curso-práctico-de-git-y-github)
   - [Índice](#índice)
-  - [Contenido curso básico de git y github.](#contenido-curso-básico-de-git-y-github)
-  - [Contenido curso intermedio de git y github.](#contenido-curso-intermedio-de-git-y-github)
-  - [Contenido curso avanzado de git y github.](#contenido-curso-avanzado-de-git-y-github)
+  - [Contenido curso básico de Git y Github.](#contenido-curso-básico-de-git-y-github)
+  - [Contenido curso intermedio de Git y Github.](#contenido-curso-intermedio-de-git-y-github)
+  - [Contenido curso avanzado de Git y Github.](#contenido-curso-avanzado-de-git-y-github)
 - [Propósito del curso](#proposito-del-curso)
 - [Valor agregado](#valor-agregado)
 - [Modalidad del curso](#modalidad-del-curso)
 
 
-## Contenido curso básico de git y github.
+## Contenido curso básico de Git y Github.
 
 - Crear cuenta en Github.
 - Configuración de e-mail y nombre en Git.
@@ -22,14 +22,14 @@ Repositorio dedicado a mis alumnos con el objetivo de ejercitar las herramientas
 - Sincronizar tu repositorio desde Github.
 - Introducción a Markdown
 
-## Contenido curso intermedio de git y github.
+## Contenido curso intermedio de Git y Github.
 
 - Deshacer cambios y volver a una versión anterior.
 - Crear ramas en tu repositorio.
 - Fusionar rama de trabajo con la principal.
 - Utilizar Github page para exponer tu proyecto.
 
-## Contenido curso avanzado de git y github.
+## Contenido curso avanzado de Git y Github.
 
 - Realizar un fork desde un repositorio externo.
 - Crear un PR a un repositorio externo.
@@ -37,7 +37,7 @@ Repositorio dedicado a mis alumnos con el objetivo de ejercitar las herramientas
 - Aceptar cambios en tu proyecto.
 
 
-# Proposito del curso
+# Propósito del curso
 El objetivo de este curso es entregar las herramientas y las competencias necesarias para que puedas aprender Git y Github. Para que puedas cumplir tu sueño de ser un desarrollador(a).
 
 

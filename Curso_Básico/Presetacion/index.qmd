@@ -8,16 +8,16 @@ format:
     preview-links: true
 ---
 
-# Bienvenida al curso basico de Git y Github
-Bienvenido al curso basico de Git y Github, En esta seccion del curso crearemos una cuenta en Github para
-luego configurar nuestro git en el equipo. Posterior a estas acciones se realizaran todas las
-configuraciones basicas necesarias para poder trabajar y mantener actualizado nuestro proyecto. Finalmente
-veremos aspectos de Markdown que mejoran y facilitan la lectura de la documentacion. 
+# Bienvenida al curso básico de Git y Github
+Bienvenido al curso básico de Git y Github, En esta sección del curso crearemos una cuenta en Github para
+luego configurar nuestro Git en el equipo. Posterior a estas acciones se realizaran todas las
+configuraciones básicas necesarias para poder trabajar y mantener actualizado nuestro proyecto. Finalmente
+veremos aspectos de *Markdown* que mejoran y facilitan la lectura de la documentación. 
 
 # Crear cuenta en Github.
 Para crear una cuenta en Github debemos dirigirnos a la siguiente url.
 
-[https://github.com/]
+[https://github.com/](https://github.com/)
 
 Una vez nos encontramos en la pagina debemos dar clic en *sign up*
 
@@ -32,10 +32,10 @@ Luego deberemos llenar los siguientes campos:
 
 Posteriormente nos solicitara datos adicionales los cuales debemos rellenar por preferencia.
 
-Señalar que Github hoy en dia funciona como una red social en la cual se pueden editar campos como:
+Señalar que Github hoy en día funciona como una red social en la cual se pueden editar campos como:
 
 - Foto de perfil
-- Biografia
+- Biografía
 - Añadir url Personal
 - Redes sociales
 
@@ -43,7 +43,7 @@ Señalar que Github hoy en dia funciona como una red social en la cual se pueden
 Primero que todo debemos instalar git en nuestro equipo, esto dependera de que sistema operativo contemos.
 Una vez identificado nuestro sistema operativo nos dirijimos a la siguiente web:
 
-[https://git-scm.com/]
+[https://git-scm.com/](https://git-scm.com/)
 
 ya en la web nos dirigimos a descargar el software que corresponda a nuestro sistema operativo.
 Tenemos dos formas de hacerlo haciendo clic en *download* o haciendo clic en la pantalla que
@@ -53,17 +53,17 @@ deberia reconocer nuestro sistema operativo.
 
 ![imagen-de-download](clic en download)
 
-Una vez finalizada la instalacion se nos abrira la terminal y los parametros basicos a configurar
-son el nombre y el correo electronico.
+Una vez finalizada la instalación se nos abrira la terminal y los parametros básicos a configurar
+son el nombre y el correo electrónico.
 
 Para añadir tu nombre a git debemos escribir el siguiente comando y este debe ser reemplazado por tu nombre
 
-`$ git config --global user.name "John Doe"`
+`$ git config --global user.name "Carlos Carrasco"`
 
 Una vez agregado el nombre debemos agregar nuestro correo electronico que es el mismo con el que 
 creamos nuestra cuenta en Github.
  
-`$ git config --global user.email johndoe@example.com`
+`$ git config --global user.email carlos.carrasco@example.com`
 
 finalizado este proceso estamos en condiciones de generar nuesta Key SSH
 
