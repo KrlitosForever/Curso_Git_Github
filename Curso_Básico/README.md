@@ -29,6 +29,8 @@ Señalar que Github hoy en día funciona como una red social en la cual se puede
 - Añadir url Personal
 - Redes sociales
 
+![Imagen-de-mi-perfil](/Curso_Básico/Presetación/images/PerfilGithub.png "Foto de mi perfil")
+
 # Configuración de e-mail y nombre en Git.
 Primero que todo debemos instalar git en nuestro equipo, esto dependerá de que sistema operativo contemos.
 Una vez identificado nuestro sistema operativo nos dirigiremos a la siguiente web:
