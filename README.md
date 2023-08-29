@@ -2,17 +2,15 @@
 Repositorio dedicado a mis alumnos con el objetivo de ejercitar las herramientas de git y github.
 
 ## Índice
-- [Curso práctico de Git y Github.](#curso-práctico-de-git-y-github)
-  - [Índice](#índice)
-  - [Contenido curso básico de Git y Github.](#contenido-curso-básico-de-git-y-github)
-  - [Contenido curso intermedio de Git y Github.](#contenido-curso-intermedio-de-git-y-github)
-  - [Contenido curso avanzado de Git y Github.](#contenido-curso-avanzado-de-git-y-github)
+- [Contenido curso básico de Git y Github.](#contenido-curso-básico-de-git-y-github)
+- [Contenido curso intermedio de Git y Github.](#contenido-curso-intermedio-de-git-y-github)
+- [Contenido curso avanzado de Git y Github.](#contenido-curso-avanzado-de-git-y-github)
 - [Propósito del curso](#proposito-del-curso)
 - [Valor agregado](#valor-agregado)
 - [Modalidad del curso](#modalidad-del-curso)
 
 
-## Contenido curso básico de Git y Github.
+# Contenido curso básico de Git y Github.
 
 - Crear cuenta en Github.
 - Configuración de e-mail y nombre en Git.
@@ -22,14 +20,14 @@ Repositorio dedicado a mis alumnos con el objetivo de ejercitar las herramientas
 - Sincronizar tu repositorio desde Github.
 - Introducción a Markdown
 
-## Contenido curso intermedio de Git y Github.
+# Contenido curso intermedio de Git y Github.
 
 - Deshacer cambios y volver a una versión anterior.
 - Crear ramas en tu repositorio.
 - Fusionar rama de trabajo con la principal.
 - Utilizar Github page para exponer tu proyecto.
 
-## Contenido curso avanzado de Git y Github.
+# Contenido curso avanzado de Git y Github.
 
 - Realizar un fork desde un repositorio externo.
 - Crear un PR a un repositorio externo.
