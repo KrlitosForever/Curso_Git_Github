@@ -19,16 +19,16 @@ Para crear una cuenta en Github debemos dirigirnos a la siguiente url.
 
 [https://github.com/](https://github.com/)
 
-Una vez nos encontramos en la pagina debemos dar clic en *sign up*
+Una vez nos encontramos en la página debemos dar clic en *sign up*
 
-![imagen-sign up](Imagen sign up)
+![Home-de-Github.com](/images/Github1.png)
 
 Luego deberemos llenar los siguientes campos:
 - E-mail
 - Contraseña
 - Username
 
-![imagen-relleno-campo](Imagen relleno de campos)
+![Imagen-Registro](/images/Github2.png)
 
 Posteriormente nos solicitara datos adicionales los cuales debemos rellenar por preferencia.
 
@@ -40,32 +40,32 @@ Señalar que Github hoy en día funciona como una red social en la cual se puede
 - Redes sociales
 
 # Configuración de e-mail y nombre en Git.
-Primero que todo debemos instalar git en nuestro equipo, esto dependera de que sistema operativo contemos.
-Una vez identificado nuestro sistema operativo nos dirijimos a la siguiente web:
+Primero que todo debemos instalar git en nuestro equipo, esto dependerá de que sistema operativo contemos.
+Una vez identificado nuestro sistema operativo nos dirigiremos a la siguiente web:
 
 [https://git-scm.com/](https://git-scm.com/)
 
 ya en la web nos dirigimos a descargar el software que corresponda a nuestro sistema operativo.
 Tenemos dos formas de hacerlo haciendo clic en *download* o haciendo clic en la pantalla que
-deberia reconocer nuestro sistema operativo.
+debería reconocer nuestro sistema operativo.
 
-![imagen-web github](imagen de descarga)
+![imagen-web-github](/images/Git1.png)
 
-![imagen-de-download](clic en download)
+![imagen-de-download](/images/Git2.png)
 
-Una vez finalizada la instalación se nos abrira la terminal y los parametros básicos a configurar
+Una vez finalizada la instalación se nos abrirá la terminal y los parámetros básicos a configurar
 son el nombre y el correo electrónico.
 
 Para añadir tu nombre a git debemos escribir el siguiente comando y este debe ser reemplazado por tu nombre
 
 `$ git config --global user.name "Carlos Carrasco"`
 
-Una vez agregado el nombre debemos agregar nuestro correo electronico que es el mismo con el que 
+Una vez agregado el nombre debemos agregar nuestro correo electrónico que es el mismo con el que 
 creamos nuestra cuenta en Github.
  
 `$ git config --global user.email carlos.carrasco@example.com`
 
-finalizado este proceso estamos en condiciones de generar nuesta Key SSH
+finalizado este proceso estamos en condiciones de generar nuestra Key SSH
 
 # Generar Key para actualizar mediante SSH.
 
