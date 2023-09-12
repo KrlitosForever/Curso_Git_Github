@@ -26,7 +26,7 @@ Señalar que Github hoy en día funciona como una red social en la cual se puede
 
 - Foto de perfil
 - Biografía
-- Añadir url Personal
+- Añadir url personal
 - Redes sociales
 
 ![Imagen-de-mi-perfil](/Curso_Básico/Presetación/images/PerfilGithub.png "Foto de mi perfil")
@@ -52,14 +52,19 @@ Para añadir tu nombre a git debemos escribir el siguiente comando y este debe s
 
 `$ git config --global user.name "Carlos Carrasco"`
 
+![imagen-git-nombre](/Curso_Básico/Presetación/images/Git-Nombre.png)
+
 Una vez agregado el nombre debemos agregar nuestro correo electrónico que es el mismo con el que 
 creamos nuestra cuenta en Github.
  
 `$ git config --global user.email carlos.carrasco@example.com`
 
+![imagen-git-email](/Curso_Básico/Presetación/images/Git-Email.png)
+
 finalizado este proceso estamos en condiciones de generar nuestra Key SSH
 
 # Generar Key para actualizar mediante SSH.
+
 
 # Crear tu primer repositorio con Git.
 
