@@ -65,6 +65,15 @@ finalizado este proceso estamos en condiciones de generar nuestra Key SSH
 
 # Generar Key para actualizar mediante SSH.
 
+Este proceso es muy importante ya que nos brindara mayor seguridad a la hora de actualizar nuestro repositorio.
+La documentación oficial es bastante clara. Si estas en Linux o Mac es sencillo solo debes seguir los pasos que dejo a continuación. En el caso que te encuentres trabajando con sistema operativo de Windows te sugiero que habras la aplicación de git para realizar este proceso.
+
+1. Abrir la terminal
+```
+$ ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+[Documentación oficial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 # Crear tu primer repositorio con Git.
 
