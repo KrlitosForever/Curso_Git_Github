@@ -5,7 +5,7 @@ Repositorio dedicado a mis alumnos con el objetivo de ejercitar las herramientas
 - [Contenido curso básico de Git y Github.](#contenido-curso-básico-de-git-y-github)
 - [Contenido curso intermedio de Git y Github.](#contenido-curso-intermedio-de-git-y-github)
 - [Contenido curso avanzado de Git y Github.](#contenido-curso-avanzado-de-git-y-github)
-- [Propósito del curso](#proposito-del-curso)
+- [Propósito del curso](#propósito-del-curso)
 - [Valor agregado](#valor-agregado)
 - [Modalidad del curso](#modalidad-del-curso)
 
@@ -53,3 +53,6 @@ https://rickandmortyapi.com/
 https://www.atlassian.com/git/tutorials/cherry-pick
 
 >Git® y Github® Son marcas registradas.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/krlitos_forever?style=social)](https://twitter.com/krlitos_forever)
+
