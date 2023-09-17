@@ -72,6 +72,37 @@ La documentación oficial es bastante clara. Si estas en Linux o Mac es sencillo
 ```
 $ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
+Si el proceso a finalizado con éxito la terminal debería arrojarnos lo siguiente:
+```
+$ Generating public/private ALGORITHM key pair.
+```
+Luego nos consultará el lugar donde queremos almacenar nuestro archivo por lo que en mi caso fue la ruta establecida:
+```
+Enter a file in which to save the key (/home/YOU/.ssh/ALGORITHM):[Press enter]
+```
+2. Ingresar contraseña
+Es importante darle una contraseña ya que esta la solicitará cuando querramos pushear un cambio a github.
+En la terminal debería aparecer lo siguiente:
+```
+> Enter passphrase (empty for no passphrase): [Type a passphrase]
+> Enter same passphrase again: [Type passphrase again]
+```
+3. Evaluar si esta corriendo el proceso
+Para ejecutar el siguiente paso tenemos que evaluar que este corriendo el proceso
+```
+$ eval "$(ssh-agent -s)"
+> Agent pid 59566
+```
+Si el proceso arroja **Agent pid XXXXX** cualquier número, eso quiere decir que vamos por buen camino.
+
+4. Agregar la contraseña al archivo
+En esta parte debemos agregar la contraseña que previamente habíamos creado
+```
+ssh-add ~/.ssh/id_ed25519
+```
+Si el proceso a funcionado correctamente ya estamos listos para agregar nuestra *Key Ssh* en Github.
+
+
 
 [Documentación oficial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
